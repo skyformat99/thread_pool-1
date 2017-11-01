@@ -1,0 +1,8 @@
+Debug/
+Debug Static/
+Release/
+Release Static/
+.vs/
+*.db
+*.opendb
+*.suo
